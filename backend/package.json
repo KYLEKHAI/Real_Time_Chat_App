@@ -1,0 +1,25 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/KYLEKHAI/Real_Time_Chat_App.git"
+  },
+  "author": "Kyle Khai Tran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KYLEKHAI/Real_Time_Chat_App/issues"
+  },
+  "homepage": "https://github.com/KYLEKHAI/Real_Time_Chat_App#readme",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
+}
